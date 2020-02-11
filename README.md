@@ -1,5 +1,5 @@
 # Square-run
-A simple running game for Android  (idea is similar to famous "Subway Surf"). It has 3D graphics! (Made in 9th grade while I was bored on holidays)
+A simple running game for Android  (idea is similar to famous "Subway Surf"). It has 3D graphics! (my final project for Samsung IT school)
 
 # Installation 
 If you wish to install this game on your Android device, simply download this .APK file: 
